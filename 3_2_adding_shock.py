@@ -4,7 +4,7 @@ Created on Thu Mar  2 01:55:13 2017
 
 @author: kevinhong
 """
-
+#adding a comment
 from scipy.stats.stats import pearsonr
 import math
 import numpy as np
